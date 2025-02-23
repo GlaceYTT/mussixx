@@ -14,11 +14,11 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-  {
-      name: "Koi Node V4",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
-      port:  3000,
+   {
+      name: "XX",
+      password: "enteryourcustompass",
+      host: "180.188.226.76",
+      port:  7019,
       secure: false
     }
   ]
